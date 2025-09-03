@@ -16,7 +16,8 @@ Do not download it from other sources and do not buy it — if you want to suppo
 ---
 
 ### Demonstration
-- [Program demonstration on YouTube](https://youtu.be/sHK7LD7p8Ug)
+- [![Program demonstration on YouTube](https://ibb.co/pvJbj6jX)](https://youtu.be/sHK7LD7p8Ug)
+
 
 ---
 
