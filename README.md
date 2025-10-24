@@ -50,9 +50,13 @@ If you find it useful and would like to support future development, you can make
 ## Installation Tutorial  
 **The setup may seem complex, but once configured, daily use is straightforward.**  
 
+[Installation Tutorial on YouTube](https://youtu.be/72eES99VVq8?si=z3tcSkzYd6Ze9HxN)
+
+### It seems that VB Cable conflicts with Steelseries Sonar, so if you want to use Sound Radar, you must uninstall Sonar or try to work around it somehow.
+
 Follow these steps carefully to install and configure Sound Radar:
 
-1. Download `Sound_Radar_version_Installer.exe` from the **Releases** section and `VBCABLE.zip` from the official site: https://vb-audio.com/Cable/.  
+1. Download `Sound_Radar_1.0_Installer.exe` from the **Releases** section and `VBCABLE.zip` from the official site: https://vb-audio.com/Cable/.  
 2. Extract the contents of `VBCABLE.zip` and run the installer for the **x64** version of VB-Cable.  
 3. Restart your PC to ensure VB-Cable installs correctly.
 4. Return your sound devices as default, because VB-Cable sets its CABLE Input and CABLE Output as sound devices by default after installing.
@@ -62,7 +66,7 @@ Follow these steps carefully to install and configure Sound Radar:
 6. Right-click on **CABLE Input**, select **Configure**, and choose **7.1 Surround** as the configuration. Proceed through the wizard without changing other options.  
 7. Right-click on **CABLE Input**, select **Properties**, go to the **Advanced** tab, and ensure the format is set to **24 bit, 48000 Hz**.  
 8. Right-click on **CABLE Output**, select **Properties**, go to the **Advanced** tab, and ensure the format is set to **8 channels, 24 bit, 48000 Hz**.  
-9. Install `Sound_Radar_version_Installer.exe` and launch the program.  
+9. Install `Sound_Radar_1.0_Installer.exe` and launch the program.  
 10. Once running (first run may require some time), the radar interface will be visible, and an application icon will appear in the system tray.  
     - To open settings, either press the default hotkey (**Ctrl+Shift+F3**) or right-click the tray icon and select **Settings**.  
 11. In the Sound Radar app in the **Audio** tab, under **Audio I/O**:  
